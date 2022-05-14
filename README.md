@@ -8,7 +8,7 @@
 今后有可能会训练人工智能（AI）来玩本游戏，敬请期待！
 
 ## 改版
-基于此版本，做了一些美化<https://github.com/noxue/ansi-escape-lib/blob/main/examples/2048.c>
+做了一些美化，美化版代码 => <https://github.com/noxue/ansi-escape-lib/blob/main/examples/2048.c>
 
 ## 效果图
 
